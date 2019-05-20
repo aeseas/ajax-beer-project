@@ -2,4 +2,9 @@
 assignment at BeCode.org <br>
 name assignment: `ajax-beer`<br>
 
-Exercise with ajax 
+Exercise on fetching from database. 
+
+Made with:
+- HTML
+- CSS
+- JavaScript
