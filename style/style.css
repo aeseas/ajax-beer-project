@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text');
+
+
+body {
+    background-color: #757869;
+    max-width: 900px;
+    margin: auto;
+}
+
+/* CARDS */
+h1 {
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+    font-size: 4em;
+    color: #52515D;
+    margin: 30px 0 30px 0;
+}
+
+.card {
+    background-color: #95826C;
+    width: 33%;
+    height: 400px;
+    padding: 10px;
+    border: 5px solid #757869;
+    border-radius: 15px;
+}
+
+.card:hover {
+    background-color: #52515D;
+    border-radius: 15px;
+}
+
+img {
+    display: block;
+    height: 150px;
+    margin: auto;
+}
+
+h4 {
+    margin: auto;
+    text-transform: uppercase;
+    font-family: 'Crimson Text', serif;
+    text-align: center;
+}
+
+p {
+    font-style: italic;
+    margin: auto;
+    font-family: 'Crimson Text', serif;
+}
+
+h5 {
+    margin: auto;
+    font-family: 'Crimson Text', serif;
+    color: #AC9D80;
+}
+
+/* MODAL */
+.modal-content {
+    background-color: #757869;
+    padding: 10px;
+}
+
+.title {
+    font-family: 'Crimson Text', serif;
+    text-transform: uppercase;
+    text-align: center;
+    color: #AC9D80;
+}
+
+.text {
+    text-align: center;
+    font-style: initial;
+    padding-bottom: 10px;
+}
+
+.btn {
+    background-color: #52515D;
+}
